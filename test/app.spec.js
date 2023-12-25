@@ -82,49 +82,51 @@
 // TDD: Uses suite, suiteSetup, suiteTeardown, setup, teardown, and test.
 
 
-const assert = require('chai').assert;
-const { add } = require('../src/app');
+// const assert = require('chai').assert;
+// const { add } = require('../src/app');
 
-// TDD
-suite('App Module', () => {
-  // Code to run once before any tests in the suite
-  suiteSetup(() => {
-    console.log('Running setup for the entire suite');
-    // Add any setup logic here
-  });
+// // TDD
+// suite('App Module', () => {
+//   // Code to run once before any tests in the suite
+//   suiteSetup(() => {
+//     console.log('Running setup for the entire suite');
+//     // Add any setup logic here
+//   });
 
-  // Code to run once after all tests in the suite
-  suiteTeardown(() => {
-    console.log('Running teardown for the entire suite');
-    // Add any teardown logic here
-  });
+//   // Code to run once after all tests in the suite
+//   suiteTeardown(() => {
+//     console.log('Running teardown for the entire suite');
+//     // Add any teardown logic here
+//   });
 
-  // Code to run before each test case
-  setup(() => {
-    console.log('Running setup before each test');
-    // Add any setup logic specific to each test case here
-  });
+//   // Code to run before each test case
+//   setup(() => {
+//     console.log('Running setup before each test');
+//     // Add any setup logic specific to each test case here
+//   });
 
-  // Code to run after each test case
-  teardown(() => {
-    console.log('Running teardown after each test');
-    // Add any teardown logic specific to each test case here
-  });
+//   // Code to run after each test case
+//   teardown(() => {
+//     console.log('Running teardown after each test');
+//     // Add any teardown logic specific to each test case here
+//   });
 
-  // Test case 1: Adding two positive numbers
-  test('should add two numbers correctly', () => {
-    const result = add(2, 3);
-    assert.strictEqual(result, 5);
-  });
+//   // Test case 1: Adding two positive numbers
+//   test('should add two numbers correctly', () => {
+//     const result = add(2, 3);
+//     assert.strictEqual(result, 5);
+//   });
 
-  // Test case 2: Adding two negative numbers
-  test('should add -ve two numbers correctly', () => {
-    const result = add(-2, -3);
-    assert.strictEqual(result, -5);
-  });
+//   // Test case 2: Adding two negative numbers
+//   test('should add -ve two numbers correctly', () => {
+//     const result = add(-2, -3);
+//     assert.strictEqual(result, -5);
+//   });
 
-  // Add more test cases as needed
-});
+//   // Add more test cases as needed
+// });
+
+
 
 
 

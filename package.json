@@ -4,15 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --ui tdd"
+    "test": "mocha"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "chai": "^4.3.10"
-  },
   "devDependencies": {
+    "axios": "^1.6.2",
+    "chai": "^4.3.10",
+    "chai-as-promised": "^7.1.1",
+    "chai-spies": "^1.1.0",
     "mocha": "^10.2.0"
   }
 }
