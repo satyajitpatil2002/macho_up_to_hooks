@@ -1,19 +1,11 @@
-// ../src/app.js
-// function add(a, b) {
-//     return a + b;
-//   }
-  
-//   function sub(a, b) {
-//     return a - b;
+function add(a, b) {
+  return a + b;
+}
 
+function sub(a, b) {
+  return a - b;
+}
 
-//   }
-
-//   module.exports = { add, sub };
-
-
-
-// app.js
 const axios = require('axios');
 
 async function fetchData() {
@@ -25,4 +17,5 @@ async function fetchData() {
   }
 }
 
-module.exports = { fetchData };
+// Export both functions
+module.exports = { add,sub, fetchData };

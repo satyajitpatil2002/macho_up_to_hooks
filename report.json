@@ -1,0 +1,342 @@
+{
+  "stats": {
+    "suites": 8,
+    "tests": 18,
+    "passes": 18,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-12-26T10:28:18.477Z",
+    "end": "2023-12-26T10:28:18.484Z",
+    "duration": 7
+  },
+  "tests": [
+    {
+      "title": "should add two positive numbers correctly",
+      "fullTitle": "add function should add two positive numbers correctly",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should add a positive number and zero correctly",
+      "fullTitle": "add function should add a positive number and zero correctly",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should add a negative number and a positive number correctly",
+      "fullTitle": "add function should add a negative number and a positive number correctly",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should add zero and a negative number correctly",
+      "fullTitle": "add function should add zero and a negative number correctly",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should add two negative numbers correctly",
+      "fullTitle": "add function should add two negative numbers correctly",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should handle adding decimal numbers correctly",
+      "fullTitle": "add function should handle adding decimal numbers correctly",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should fetch data successfully",
+      "fullTitle": "Async Tests with Promises (using done) should fetch data successfully",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\async.app.spec.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should fetch data successfully",
+      "fullTitle": "Async Tests with Promises (using Promise) should fetch data successfully",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\async.app.spec.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should fetch data successfully",
+      "fullTitle": "Async Tests with Promises (using async/await) should fetch data successfully",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\async.app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should have length of 3",
+      "fullTitle": "Array Tests should have length of 3",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should include value 5",
+      "fullTitle": "Array Tests should include value 5",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should be empty",
+      "fullTitle": "Array Tests should be empty",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should have length of 3",
+      "fullTitle": "Array Tests should have length of 3",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should include value 5",
+      "fullTitle": "Array Tests should include value 5",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should be empty",
+      "fullTitle": "Array Tests should be empty",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should have length of 3",
+      "fullTitle": "Array Tests should have length of 3",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should include value 5",
+      "fullTitle": "Array Tests should include value 5",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should be empty",
+      "fullTitle": "Array Tests should be empty",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "should add two positive numbers correctly",
+      "fullTitle": "add function should add two positive numbers correctly",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should add a positive number and zero correctly",
+      "fullTitle": "add function should add a positive number and zero correctly",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should add a negative number and a positive number correctly",
+      "fullTitle": "add function should add a negative number and a positive number correctly",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should add zero and a negative number correctly",
+      "fullTitle": "add function should add zero and a negative number correctly",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should add two negative numbers correctly",
+      "fullTitle": "add function should add two negative numbers correctly",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should handle adding decimal numbers correctly",
+      "fullTitle": "add function should handle adding decimal numbers correctly",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should fetch data successfully",
+      "fullTitle": "Async Tests with Promises (using done) should fetch data successfully",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\async.app.spec.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should fetch data successfully",
+      "fullTitle": "Async Tests with Promises (using Promise) should fetch data successfully",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\async.app.spec.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should fetch data successfully",
+      "fullTitle": "Async Tests with Promises (using async/await) should fetch data successfully",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\async.app.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should have length of 3",
+      "fullTitle": "Array Tests should have length of 3",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should include value 5",
+      "fullTitle": "Array Tests should include value 5",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should be empty",
+      "fullTitle": "Array Tests should be empty",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should have length of 3",
+      "fullTitle": "Array Tests should have length of 3",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should include value 5",
+      "fullTitle": "Array Tests should include value 5",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should be empty",
+      "fullTitle": "Array Tests should be empty",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should have length of 3",
+      "fullTitle": "Array Tests should have length of 3",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should include value 5",
+      "fullTitle": "Array Tests should include value 5",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "should be empty",
+      "fullTitle": "Array Tests should be empty",
+      "file": "C:\\Users\\satya\\Desktop\\cahi_mocha_demo\\test\\chai.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}

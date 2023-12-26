@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha test/spy_stub_mock.js",
+    "cmdline": "mocha -R json --reporter-options output=report.json"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +15,10 @@
     "chai": "^4.3.10",
     "chai-as-promised": "^7.1.1",
     "chai-spies": "^1.1.0",
-    "mocha": "^10.2.0"
+    "mocha": "^10.2.0",
+    "mochawesome": "^7.1.3"
+  },
+  "dependencies": {
+    "sinon": "^17.0.1"
   }
 }
